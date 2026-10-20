@@ -1,0 +1,105 @@
+{
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 1350,
+  "durationInSeconds": 45,
+  "scenes": [
+    {
+      "scene": 1,
+      "title": "听见了吗",
+      "startFrame": 0,
+      "endFrameExclusive": 61,
+      "startSeconds": 0.0,
+      "endSeconds": 2.033333333333333
+    },
+    {
+      "scene": 2,
+      "title": "一点蓝",
+      "startFrame": 61,
+      "endFrameExclusive": 173,
+      "startSeconds": 2.033333333333333,
+      "endSeconds": 5.766666666666667
+    },
+    {
+      "scene": 3,
+      "title": "让节奏转起来",
+      "startFrame": 173,
+      "endFrameExclusive": 286,
+      "startSeconds": 5.766666666666667,
+      "endSeconds": 9.533333333333333
+    },
+    {
+      "scene": 4,
+      "title": "慢一点也有新发现",
+      "startFrame": 286,
+      "endFrameExclusive": 511,
+      "startSeconds": 9.533333333333333,
+      "endSeconds": 17.033333333333335
+    },
+    {
+      "scene": 5,
+      "title": "放开想象",
+      "startFrame": 511,
+      "endFrameExclusive": 623,
+      "startSeconds": 17.033333333333335,
+      "endSeconds": 20.766666666666666
+    },
+    {
+      "scene": 6,
+      "title": "跟上这节拍",
+      "startFrame": 623,
+      "endFrameExclusive": 736,
+      "startSeconds": 20.766666666666666,
+      "endSeconds": 24.533333333333335
+    },
+    {
+      "scene": 7,
+      "title": "越来越多",
+      "startFrame": 736,
+      "endFrameExclusive": 848,
+      "startSeconds": 24.533333333333335,
+      "endSeconds": 28.266666666666666
+    },
+    {
+      "scene": 8,
+      "title": "同频就一起",
+      "startFrame": 848,
+      "endFrameExclusive": 961,
+      "startSeconds": 28.266666666666666,
+      "endSeconds": 32.03333333333333
+    },
+    {
+      "scene": 9,
+      "title": "放大热爱",
+      "startFrame": 961,
+      "endFrameExclusive": 1073,
+      "startSeconds": 32.03333333333333,
+      "endSeconds": 35.766666666666666
+    },
+    {
+      "scene": 10,
+      "title": "现在一起",
+      "startFrame": 1073,
+      "endFrameExclusive": 1186,
+      "startSeconds": 35.766666666666666,
+      "endSeconds": 39.53333333333333
+    },
+    {
+      "scene": 11,
+      "title": "一起鲸动高潮",
+      "startFrame": 1186,
+      "endFrameExclusive": 1260,
+      "startSeconds": 39.53333333333333,
+      "endSeconds": 42.0
+    },
+    {
+      "scene": 12,
+      "title": "标题定格",
+      "startFrame": 1260,
+      "endFrameExclusive": 1350,
+      "startSeconds": 42.0,
+      "endSeconds": 45.0
+    }
+  ]
+}

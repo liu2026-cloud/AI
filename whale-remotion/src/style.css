@@ -1,0 +1,2 @@
+@font-face{font-family:'Whale Sans';src:url('../public/whale-bold.otf') format('opentype');font-style:normal;font-weight:100 1000;font-display:block;}
+*{box-sizing:border-box}body{margin:0;font-family:'Whale Sans','Noto Sans CJK SC',sans-serif} svg{overflow:visible}
